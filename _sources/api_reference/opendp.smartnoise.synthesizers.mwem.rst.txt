@@ -1,0 +1,8 @@
+opendp\.smartnoise\.synthesizers\.mwem package
+=================================================
+
+.. automodule:: opendp.smartnoise.synthesizers.mwem
+    
+    :members:
+    :undoc-members:
+    :show-inheritance:

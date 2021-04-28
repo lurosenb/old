@@ -1,0 +1,7 @@
+opendp\.smartnoise package
+=======================================
+
+.. automodule:: opendp.smartnoise
+    :members:
+    :undoc-members:
+    :show-inheritance:

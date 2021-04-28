@@ -1,0 +1,7 @@
+opendp\.smartnoise\.synthesizers package
+=================================================
+
+.. automodule:: opendp.smartnoise.sql.parse
+    :members:
+    :undoc-members:
+    :show-inheritance:
